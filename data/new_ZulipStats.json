@@ -1,0 +1,5317 @@
+[
+  {
+    "_id": "600579ebe2b20283889ac39c",
+    "email": "aalimonov_2@miem.hse.ru",
+    "user_id": 1304,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Алексей Лимонов",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T10:42:23.769839+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/ed3d3adf13bb063a5471c756698f460a?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 252295,
+        "stream_id": 1267,
+        "name": "БИВ201",
+        "subject": "stream events",
+        "timestamp": "2021-01-18T10:47:05.000Z"
+      },
+      {
+        "id": 324330,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-17T16:24:13.000Z"
+      },
+      {
+        "id": 324359,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-17T16:37:09.000Z"
+      },
+      {
+        "id": 324380,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-17T16:44:03.000Z"
+      },
+      {
+        "id": 324396,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-17T16:48:52.000Z"
+      },
+      {
+        "id": 324402,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-17T16:51:01.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "1304",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-17T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 5,
+        "mentionCount": 1
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769db",
+    "email": "dmkanukov@miem.hse.ru",
+    "user_id": 1002,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Денис Кануков",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-09T14:53:36.734172+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/768059daa53fc223115d432604da8d3a?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322103,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T14:04:52.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "605342ae9309a0e7a221d64c",
+    "email": "esaleshina_1@miem.hse.ru",
+    "user_id": 988,
+    "avatar_version": 2,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Эллина Алешина",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-08T14:17:49.934285+00:00",
+    "avatar_url": "/user_avatars/2/0d3f7bd937f965e1a9d1ae73113f51e292cd2c6c.png?x=x&version=2",
+    "messages": [
+      {
+        "id": 325008,
+        "stream_id": 1267,
+        "name": "БИВ201",
+        "subject": "homework",
+        "timestamp": "2021-03-18T09:32:07.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "600eb46b870b41c08bb607a8",
+    "email": "gstsaturyan@miem.hse.ru",
+    "user_id": 999,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Геворг Цатурян",
+    "timezone": "",
+    "is_active": true,
+    "date_joined": "2020-09-09T14:45:27.348239+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/ecbf9d3951eb1b1d79d8d47eecc4f96b?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 261527,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Проектный семинар",
+        "timestamp": "2021-01-24T21:17:08.000Z"
+      },
+      {
+        "id": 262278,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Проектный семинар",
+        "timestamp": "2021-01-25T10:07:32.000Z"
+      },
+      {
+        "id": 317301,
+        "stream_id": 1267,
+        "name": "БИВ201",
+        "subject": "homework",
+        "timestamp": "2021-03-11T12:01:33.000Z"
+      },
+      {
+        "id": 321463,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-15T07:54:44.000Z"
+      },
+      {
+        "id": 321533,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-15T08:50:27.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "999",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-15T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 3,
+        "mentionCount": 1
+      }
+    ]
+  },
+  {
+    "_id": "6004286a2cbb3df6e105dac2",
+    "email": "iatarasenko@miem.hse.ru",
+    "user_id": 1297,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Илья Тарасенко",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T10:38:04.675690+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/8ce1ff653ca941ff4474db8b556b6b26?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 250579,
+        "stream_id": 1267,
+        "name": "БИВ201",
+        "subject": "stream events",
+        "timestamp": "2021-01-16T13:08:21.000Z"
+      },
+      {
+        "id": 254787,
+        "stream_id": 1267,
+        "name": "БИВ201",
+        "subject": "stream events",
+        "timestamp": "2021-01-19T18:22:19.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60081ce585f13cd2ec71e106",
+    "email": "kamalyshkina@miem.hse.ru",
+    "user_id": 1302,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Карина Малышкина",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T10:41:53.396691+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/64c9c09e43d5d822db611f408c49f88d?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 254773,
+        "stream_id": 1267,
+        "name": "БИВ201",
+        "subject": "stream events",
+        "timestamp": "2021-01-19T18:17:04.000Z"
+      },
+      {
+        "id": 254779,
+        "stream_id": 1267,
+        "name": "БИВ201",
+        "subject": "stream events",
+        "timestamp": "2021-01-19T18:18:54.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "6036416e77bfac5ccf4e03c2",
+    "email": "lshkamarov@miem.hse.ru",
+    "user_id": 1307,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Лазизбек Камаров",
+    "timezone": "",
+    "is_active": true,
+    "date_joined": "2021-01-16T10:43:53.732704+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/4730beb05ff90fea167daeade561445c?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 290494,
+        "stream_id": 1234,
+        "name": "301 Курс Цифровой МИЭМ",
+        "subject": "feedback",
+        "timestamp": "2021-02-23T17:06:43.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "603792edf1863bd7cffa70fe",
+    "email": "mbkhasanov@miem.hse.ru",
+    "user_id": 1308,
+    "avatar_version": 2,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Мурат Хасанов",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T10:44:22.807668+00:00",
+    "avatar_url": "/user_avatars/2/e1bd307e695d31bcf98528043c5bb3fa8501c428.png?x=x&version=2",
+    "messages": [
+      {
+        "id": 295291,
+        "stream_id": 1267,
+        "name": "БИВ201",
+        "subject": "stream events",
+        "timestamp": "2021-02-25T11:41:11.000Z"
+      },
+      {
+        "id": 317299,
+        "stream_id": 1267,
+        "name": "БИВ201",
+        "subject": "homework",
+        "timestamp": "2021-03-11T12:01:13.000Z"
+      },
+      {
+        "id": 317308,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Проектный семинар",
+        "timestamp": "2021-03-11T12:09:07.000Z"
+      },
+      {
+        "id": 317347,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Проектный семинар",
+        "timestamp": "2021-03-11T12:31:06.000Z"
+      },
+      {
+        "id": 317348,
+        "stream_id": 1267,
+        "name": "БИВ201",
+        "subject": "homework",
+        "timestamp": "2021-03-11T12:32:56.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 4,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "6002d6eb26e90499a937ba8c",
+    "email": "svsoldatov@miem.hse.ru",
+    "user_id": 1301,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Семен Солдатов",
+    "timezone": "",
+    "is_active": true,
+    "date_joined": "2021-01-16T10:40:21.026703+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/f870809f5d6fa772cebb574bc5caca92?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 250435,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Проектный семинар",
+        "timestamp": "2021-01-16T10:48:46.000Z"
+      },
+      {
+        "id": 318930,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Проектный семинар",
+        "timestamp": "2021-03-12T17:47:50.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "600579ebe2b20283889ac384",
+    "email": "vyumoiseenkov@miem.hse.ru",
+    "user_id": 993,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Владислав Моисеенков",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-09T10:53:29.565318+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/3d6dc2ae2eb8a7e992c947ef6bad1329?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 251931,
+        "stream_id": 1267,
+        "name": "БИВ201",
+        "subject": "stream events",
+        "timestamp": "2021-01-17T22:33:45.000Z"
+      },
+      {
+        "id": 322073,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T13:57:11.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "6057372ef86d97d460fb93f9",
+    "email": "yaamoskalenko@miem.hse.ru",
+    "user_id": 1306,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Ярослав Москаленко",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T10:43:41.150061+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/ab190a281da5c91378321244fec0972e?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 327746,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-20T18:27:05.000Z"
+      },
+      {
+        "id": 328192,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-21T09:21:19.000Z"
+      },
+      {
+        "id": 328195,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-21T09:22:12.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 3,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769d3",
+    "email": "aafadeeva_4@miem.hse.ru",
+    "user_id": 1003,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Анастасия Фадеева",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-09T14:55:49.122751+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/3133155a4989042cd3878bccaafbb76f?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322335,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T15:48:31.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "604f4e2ecba260afe4c07465",
+    "email": "aamarkin_4@miem.hse.ru",
+    "user_id": 1292,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Алексей Маркин",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T08:33:21.377561+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/8b3b96f92c36e78cfcca5c52cb60dea5?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 320970,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-14T20:03:20.000Z"
+      },
+      {
+        "id": 322126,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T14:08:40.000Z"
+      },
+      {
+        "id": 322179,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T14:24:46.000Z"
+      },
+      {
+        "id": 330644,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-23T06:17:28.000Z"
+      },
+      {
+        "id": 330656,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-23T07:21:11.000Z"
+      },
+      {
+        "id": 330777,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-23T10:45:42.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "1292",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-23T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 6,
+        "mentionCount": 1
+      }
+    ]
+  },
+  {
+    "_id": "604dfcadf3a0b2a04fd81ef7",
+    "email": "aiafonin_1@miem.hse.ru",
+    "user_id": 1296,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Андрей Афонин",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T09:32:55.915997+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/dcece1c0e311715540ca7d8bd70c183b?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 319856,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-13T20:47:11.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769d6",
+    "email": "aschuvaeva_1@miem.hse.ru",
+    "user_id": 1031,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Анна Чуваева",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-10T14:39:03.644401+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/799fcc34e2d7ef709fb0d69cacd83790?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322327,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T15:44:16.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "604f4e2ecba260afe4c0746d",
+    "email": "dvpalukha@miem.hse.ru",
+    "user_id": 1392,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Денис Палуха",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-02-23T12:40:51.658013+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/2abfe1e30c63defcfccd8de15d7f545d?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 320709,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-14T17:37:59.000Z"
+      },
+      {
+        "id": 322050,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-15T13:47:33.000Z"
+      },
+      {
+        "id": 322540,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-15T19:05:48.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 3,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "6011576c3f2aff17abaed937",
+    "email": "gapisarev@miem.hse.ru",
+    "user_id": 1354,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Глеб Писарев",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-26T17:48:05.085048+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/95cbdf5b29a28471ea9186a28bd49c36?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 265248,
+        "stream_id": 1244,
+        "name": "370 Wiki МИЭМ",
+        "subject": "Персональные страницы",
+        "timestamp": "2021-01-26T18:33:37.000Z"
+      },
+      {
+        "id": 265255,
+        "stream_id": 1244,
+        "name": "370 Wiki МИЭМ",
+        "subject": "Персональные страницы",
+        "timestamp": "2021-01-26T18:36:51.000Z"
+      },
+      {
+        "id": 265257,
+        "stream_id": 1244,
+        "name": "370 Wiki МИЭМ",
+        "subject": "Персональные страницы",
+        "timestamp": "2021-01-26T18:37:50.000Z"
+      },
+      {
+        "id": 322328,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T15:44:58.000Z"
+      },
+      {
+        "id": 322352,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T15:54:49.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 3,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769d7",
+    "email": "inbarulin@miem.hse.ru",
+    "user_id": 1037,
+    "avatar_version": 2,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Барулин Илья Николаевич",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-11T10:10:25.572602+00:00",
+    "avatar_url": "/user_avatars/2/91f47294752dbce63e2be7568f1ad8725570a48c.png?x=x&version=2",
+    "messages": [
+      {
+        "id": 322339,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T15:50:56.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "1037",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-15T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 1
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769e4",
+    "email": "kamatanov@miem.hse.ru",
+    "user_id": 1291,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Кирилл Матанов",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T08:31:19.101417+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/b1008c0f9e17e9875435fb6e2910013b?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322538,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-15T19:01:36.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "6059da2e7f2c19b96e4b2db5",
+    "email": "kamedvedev@miem.hse.ru",
+    "user_id": 1006,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Кирилл Медведев",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-09T15:32:58.617319+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/c4c18a5db29d52630450d9a84c94e7b9?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 330328,
+        "stream_id": 1268,
+        "name": "БИВ202",
+        "subject": "stream events",
+        "timestamp": "2021-03-22T19:35:44.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "604dfcadf3a0b2a04fd81ef4",
+    "email": "makofanova@miem.hse.ru",
+    "user_id": 1294,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Мария Кофанова",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T09:11:07.952240+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/43823da11dc09c4983827f5fd1936b5b?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 319616,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-13T15:13:09.000Z"
+      },
+      {
+        "id": 319745,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-13T19:03:47.000Z"
+      },
+      {
+        "id": 319749,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-13T19:08:38.000Z"
+      },
+      {
+        "id": 319759,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-13T19:25:07.000Z"
+      },
+      {
+        "id": 319797,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-13T19:52:17.000Z"
+      },
+      {
+        "id": 319805,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-13T20:09:57.000Z"
+      },
+      {
+        "id": 319828,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-13T20:34:30.000Z"
+      },
+      {
+        "id": 320958,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-14T19:52:25.000Z"
+      },
+      {
+        "id": 320962,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-14T19:56:58.000Z"
+      },
+      {
+        "id": 320964,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-14T20:01:10.000Z"
+      },
+      {
+        "id": 320965,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-14T20:01:51.000Z"
+      },
+      {
+        "id": 320967,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-14T20:02:26.000Z"
+      },
+      {
+        "id": 320972,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-14T20:04:28.000Z"
+      },
+      {
+        "id": 320974,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-14T20:06:36.000Z"
+      },
+      {
+        "id": 320979,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-14T20:17:39.000Z"
+      },
+      {
+        "id": 320990,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-14T20:24:31.000Z"
+      },
+      {
+        "id": 320992,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-14T20:24:58.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "1294",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-14T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 17,
+        "mentionCount": 1
+      }
+    ]
+  },
+  {
+    "_id": "60509fb0f9f200916f276a14",
+    "email": "matarasova_7@miem.hse.ru",
+    "user_id": 996,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Мария Тарасова",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-09T14:34:21.212887+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/477796431314d28a95b8f80e2940ecca?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322361,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T15:59:44.000Z"
+      },
+      {
+        "id": 325280,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-18T15:37:44.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "605888aed91b7711ded84fdb",
+    "email": "msskriplyonok@miem.hse.ru",
+    "user_id": 1413,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Михаил Скриплёнок",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-02-26T13:54:56.846979+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/5e3e1cbc71387f1e9148279984dd7600?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 328560,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-21T15:22:55.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509fb0f9f200916f276a10",
+    "email": "nzakimov@miem.hse.ru",
+    "user_id": 1228,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Нурхат Закимов",
+    "timezone": "Asia/Almaty",
+    "is_active": true,
+    "date_joined": "2020-11-15T11:22:27.969682+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/f5ad39c6c806b09b93fb03df983c691a?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322333,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T15:46:50.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509fb0f9f200916f276a13",
+    "email": "pkkudryavtsev@miem.hse.ru",
+    "user_id": 1340,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Павел Кудрявцев",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-20T23:05:29.374145+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/c9fc26da34b0a2a384289d2d57d6a27a?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322385,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T16:14:37.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "6059da2e7f2c19b96e4b2dc2",
+    "email": "rigarayshin@miem.hse.ru",
+    "user_id": 1381,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Роберт Гарайшин",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-02-22T15:16:39.265391+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/8054c56a9b6730ab35ef2af37d36fd33?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 330700,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Сеть в МИЭМе",
+        "timestamp": "2021-03-23T08:48:26.000Z"
+      },
+      {
+        "id": 330708,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Сеть в МИЭМе",
+        "timestamp": "2021-03-23T08:52:40.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769d2",
+    "email": "vonikitin@miem.hse.ru",
+    "user_id": 1008,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Владимир Никитин",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-09T16:42:34.412540+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/88562ff1ee96d0bce5db5fcd9d4e5c27?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322539,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-15T19:05:20.000Z"
+      },
+      {
+        "id": 322633,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-15T21:05:04.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "1008",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-15T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 1
+      }
+    ]
+  },
+  {
+    "_id": "6059da2f7f2c19b96e4b2de3",
+    "email": "vvgorovoy@miem.hse.ru",
+    "user_id": 1036,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Владимир Горовой",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-11T06:43:08.648129+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/0dc56a85ff71bf8d86e8cd2c1b0ba0ba?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 330400,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-22T20:31:35.000Z"
+      },
+      {
+        "id": 330493,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-22T20:56:59.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "1036",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-23T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 1
+      }
+    ]
+  },
+  {
+    "_id": "6055e5b0094be4a5be6b90f0",
+    "email": "aaesetov@miem.hse.ru",
+    "user_id": 1022,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Александр Есетов",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-10T14:00:58.336346+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/7cac2788bab767fbcebe61b0d4c18c0a?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 326805,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-19T18:26:43.000Z"
+      },
+      {
+        "id": 326806,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-19T18:27:48.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "6057372df86d97d460fb93e7",
+    "email": "aaivoninskaya@miem.hse.ru",
+    "user_id": 1328,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Алина Ивонинская",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-18T15:47:25.853136+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/cb34438f3670b02c3e00066304219360?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 328239,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-21T09:57:49.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769dd",
+    "email": "adshatskiy@miem.hse.ru",
+    "user_id": 1290,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Алексей Шацкий",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T07:57:59.435348+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/f91a1409fc2609fbb57cad2bcba9c3bf?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322416,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T16:59:07.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "6040cdad9ff1b07f121104ee",
+    "email": "aikatsnelson@miem.hse.ru",
+    "user_id": 944,
+    "avatar_version": 2,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Артём Кацнельсон",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-02T21:49:58.199520+00:00",
+    "avatar_url": "/user_avatars/2/69544f06893a9e7323ff099d503591a3e613412d.png?x=x&version=2",
+    "messages": [
+      {
+        "id": 321231,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-14T21:43:14.000Z"
+      },
+      {
+        "id": 321253,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-14T21:49:04.000Z"
+      },
+      {
+        "id": 325449,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-18T17:12:42.000Z"
+      },
+      {
+        "id": 327042,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-19T20:22:04.000Z"
+      },
+      {
+        "id": 327044,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-19T20:22:09.000Z"
+      },
+      {
+        "id": 328429,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-21T13:15:28.000Z"
+      },
+      {
+        "id": 328433,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-21T13:17:45.000Z"
+      },
+      {
+        "id": 328449,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-21T14:03:17.000Z"
+      },
+      {
+        "id": 328466,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-21T14:12:05.000Z"
+      },
+      {
+        "id": 329329,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T08:20:15.000Z"
+      },
+      {
+        "id": 329673,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Соединение с сервером",
+        "timestamp": "2021-03-22T12:36:50.000Z"
+      },
+      {
+        "id": 329680,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Соединение с сервером",
+        "timestamp": "2021-03-22T12:37:49.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "944",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-03T00:00:00.000Z"
+      },
+      {
+        "user_id": "944",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-14T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 12,
+        "mentionCount": 2
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769dc",
+    "email": "arzamaliev@miem.hse.ru",
+    "user_id": 1287,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Азат Замалиев",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T07:05:59.580905+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/330e26b66654d3a7825b0ff969e60026?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322414,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T16:58:15.000Z"
+      },
+      {
+        "id": 327059,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-19T20:25:33.000Z"
+      },
+      {
+        "id": 327075,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-19T20:35:21.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 3,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "604f4e2dcba260afe4c07456",
+    "email": "dvkostikov@miem.hse.ru",
+    "user_id": 1024,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Данила Костиков",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-10T14:04:36.540931+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/2bc7b8fa9e03aee2a607e2bd0bca7f29?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 320993,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-14T20:27:51.000Z"
+      },
+      {
+        "id": 321882,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-15T11:45:08.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "1024",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-14T00:00:00.000Z"
+      },
+      {
+        "user_id": "1024",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-14T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 2
+      }
+    ]
+  },
+  {
+    "_id": "604f4e2ecba260afe4c07482",
+    "email": "idprodma@miem.hse.ru",
+    "user_id": 1032,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Илья Продьма",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-10T14:45:58.347442+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/28028d9ec147e07735e338202ea6fa2a?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 320925,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-14T19:19:08.000Z"
+      },
+      {
+        "id": 327516,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-20T12:27:01.000Z"
+      },
+      {
+        "id": 327564,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-20T15:47:23.000Z"
+      },
+      {
+        "id": 327586,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-20T16:57:27.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "1032",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-20T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 4,
+        "mentionCount": 1
+      }
+    ]
+  },
+  {
+    "_id": "6055e5b0094be4a5be6b90fc",
+    "email": "imsalikhov@miem.hse.ru",
+    "user_id": 1387,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Искандер Салихов",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-02-22T17:45:40.637936+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/ec8111f6164dc9b350967b02abd91ea6?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 327062,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-19T20:26:58.000Z"
+      },
+      {
+        "id": 327074,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-19T20:34:49.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "6055e5b0094be4a5be6b90fe",
+    "email": "kvprokudina@miem.hse.ru",
+    "user_id": 1038,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Ксения Прокудина",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-11T17:23:16.548379+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/86bb5d40347d911592c619059cdc2d50?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 327041,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-19T20:21:28.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "604dfcadf3a0b2a04fd81eed",
+    "email": "nseliseev@miem.hse.ru",
+    "user_id": 1012,
+    "avatar_version": 2,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Никита Елисеев",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-09T19:52:42.288882+00:00",
+    "avatar_url": "/user_avatars/2/eeaee5e5426f02df8c832249dbfb3a19ec29ce17.png?x=x&version=2",
+    "messages": [
+      {
+        "id": 320047,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-14T08:30:42.000Z"
+      },
+      {
+        "id": 326801,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-19T18:26:18.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "605888aed91b7711ded84fd6",
+    "email": "nyudobrovolskiy@miem.hse.ru",
+    "user_id": 1042,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Николай Добровольский",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-12T15:38:44.971831+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/8aaa1fd120527ca5a39ad2ed3e20ca42?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 329375,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-22T08:54:50.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "6051f12b6296ca19808cbba1",
+    "email": "pmfeklistova@miem.hse.ru",
+    "user_id": 1327,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Полина Феклистова",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-18T10:57:41.380668+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/f5e673fa86717c48a374bd15eb71fe03?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 323810,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-17T09:18:42.000Z"
+      },
+      {
+        "id": 323878,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-17T09:45:00.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "6055e5b0094be4a5be6b90f2",
+    "email": "tdrykova@miem.hse.ru",
+    "user_id": 1028,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Татьяна Рыкова",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-10T14:05:31.284925+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/8446563d2ae9d7a105d47934982207fc?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 326854,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-19T19:10:00.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "605888aed91b7711ded84fc2",
+    "email": "teprotasov@miem.hse.ru",
+    "user_id": 1021,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Тимофей Протасов",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-10T13:21:32.763969+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/46fb8728a5c443cba169e7b5232f3e5a?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 329358,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-22T08:36:50.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "6055e5b0094be4a5be6b90f5",
+    "email": "vaogay@miem.hse.ru",
+    "user_id": 1026,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Владислав Огай",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-10T14:04:56.508075+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/1ff3eb1633106dac7d94a6d817084934?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 326804,
+        "stream_id": 1269,
+        "name": "БИВ203",
+        "subject": "Чатик группы",
+        "timestamp": "2021-03-19T18:26:37.000Z"
+      },
+      {
+        "id": 328734,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-21T18:18:49.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "6054942e46c0ff4cab6268fd",
+    "email": "vssargsyan@miem.hse.ru",
+    "user_id": 1324,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Вильям Саргсян",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-17T14:03:31.487559+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/65cac6d78a61ab48f91ffee4c210d119?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 325461,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Jitsi",
+        "timestamp": "2021-03-18T17:30:59.000Z"
+      },
+      {
+        "id": 327308,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Jitsi",
+        "timestamp": "2021-03-19T23:18:37.000Z"
+      },
+      {
+        "id": 327956,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Jitsi",
+        "timestamp": "2021-03-20T22:28:00.000Z"
+      },
+      {
+        "id": 329470,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Jitsi",
+        "timestamp": "2021-03-22T09:55:32.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 4,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "604f4e2dcba260afe4c07459",
+    "email": "vvbestaeva@miem.hse.ru",
+    "user_id": 1029,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Виктория Бестаева",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-10T14:22:32.486701+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/45f340bebb0e30e5d524534ad5f91b4d?d=identicon&version=1",
+    "messages": [],
+    "mentions": [
+      {
+        "user_id": "1029",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-14T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 1
+      }
+    ]
+  },
+  {
+    "_id": "6029126b29705e1e0fa8e723",
+    "email": "dmbobrova@miem.hse.ru",
+    "user_id": 1018,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Дарья Боброва",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-10T10:00:15.952170+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/1460fbb2b4c0d7652e9da7d7b724b6ef?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 280370,
+        "stream_id": 1220,
+        "name": "246 Телевидение МИЭМ",
+        "subject": "505",
+        "timestamp": "2021-02-14T09:31:41.000Z"
+      },
+      {
+        "id": 280448,
+        "stream_id": 1220,
+        "name": "246 Телевидение МИЭМ",
+        "subject": "505",
+        "timestamp": "2021-02-14T11:09:41.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "1018",
+        "stream_id": 1220,
+        "name": "246 Телевидение МИЭМ",
+        "timestamp": "2021-02-14T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 1
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "604f4e2ecba260afe4c07469",
+    "email": "ifaglyamov@miem.hse.ru",
+    "user_id": 1143,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Ильнур Аглямов",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-10-09T17:47:33.856277+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/ac2333703c8de8bfb40c0c94837ad427?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 320921,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-14T19:18:07.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "6011576c3f2aff17abaed933",
+    "email": "iluchnikov@miem.hse.ru",
+    "user_id": 1316,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Илья Лучников",
+    "timezone": "Europe/Kiev",
+    "is_active": true,
+    "date_joined": "2021-01-16T12:53:39.316388+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/2b1acce0af7cb952f3f79fff06ec0755?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 264859,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "ИИ на OpenCL",
+        "timestamp": "2021-01-26T16:45:50.000Z"
+      },
+      {
+        "id": 265071,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "ИИ на OpenCL",
+        "timestamp": "2021-01-26T17:53:32.000Z"
+      },
+      {
+        "id": 265242,
+        "stream_id": 991,
+        "name": "Консультации",
+        "subject": "ИНС на OpenCL",
+        "timestamp": "2021-01-26T18:30:18.000Z"
+      },
+      {
+        "id": 265343,
+        "stream_id": 991,
+        "name": "Консультации",
+        "subject": "ИНС на OpenCL",
+        "timestamp": "2021-01-26T19:12:11.000Z"
+      },
+      {
+        "id": 271746,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Ваши сочинения",
+        "timestamp": "2021-02-02T20:50:31.000Z"
+      },
+      {
+        "id": 321839,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тестики в классруме",
+        "timestamp": "2021-03-15T11:14:57.000Z"
+      },
+      {
+        "id": 321843,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тестики в классруме",
+        "timestamp": "2021-03-15T11:18:58.000Z"
+      },
+      {
+        "id": 324003,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-17T12:03:00.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 4,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 3,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "604cab2dd4f2763381c2c6f8",
+    "email": "aapardaev_1@miem.hse.ru",
+    "user_id": 1317,
+    "avatar_version": 2,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Азизбек Пардаев",
+    "timezone": "Asia/Tashkent",
+    "is_active": true,
+    "date_joined": "2021-01-16T14:16:51.021239+00:00",
+    "avatar_url": "/user_avatars/2/16dad0c6e49aab097accb79733b87027334ad13e.png?x=x&version=2",
+    "messages": [
+      {
+        "id": 319094,
+        "stream_id": 1501,
+        "name": "617 Android приложение МИЭМ",
+        "subject": "Тайга",
+        "timestamp": "2021-03-12T19:18:52.000Z"
+      },
+      {
+        "id": 319096,
+        "stream_id": 1501,
+        "name": "617 Android приложение МИЭМ",
+        "subject": "Тайга",
+        "timestamp": "2021-03-12T19:19:21.000Z"
+      },
+      {
+        "id": 319097,
+        "stream_id": 1501,
+        "name": "617 Android приложение МИЭМ",
+        "subject": "Тайга",
+        "timestamp": "2021-03-12T19:19:44.000Z"
+      },
+      {
+        "id": 319101,
+        "stream_id": 1501,
+        "name": "617 Android приложение МИЭМ",
+        "subject": "Тайга",
+        "timestamp": "2021-03-12T19:25:37.000Z"
+      },
+      {
+        "id": 319102,
+        "stream_id": 1501,
+        "name": "617 Android приложение МИЭМ",
+        "subject": "Тайга",
+        "timestamp": "2021-03-12T19:25:47.000Z"
+      },
+      {
+        "id": 319618,
+        "stream_id": 1501,
+        "name": "617 Android приложение МИЭМ",
+        "subject": "Тайга",
+        "timestamp": "2021-03-13T15:14:16.000Z"
+      },
+      {
+        "id": 319619,
+        "stream_id": 1501,
+        "name": "617 Android приложение МИЭМ",
+        "subject": "Тайга",
+        "timestamp": "2021-03-13T15:15:57.000Z"
+      },
+      {
+        "id": 319626,
+        "stream_id": 1501,
+        "name": "617 Android приложение МИЭМ",
+        "subject": "Тайга",
+        "timestamp": "2021-03-13T15:20:47.000Z"
+      },
+      {
+        "id": 319627,
+        "stream_id": 1501,
+        "name": "617 Android приложение МИЭМ",
+        "subject": "Тайга",
+        "timestamp": "2021-03-13T15:21:51.000Z"
+      },
+      {
+        "id": 319628,
+        "stream_id": 1501,
+        "name": "617 Android приложение МИЭМ",
+        "subject": "Тайга",
+        "timestamp": "2021-03-13T15:22:12.000Z"
+      },
+      {
+        "id": 319629,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-13T15:24:39.000Z"
+      },
+      {
+        "id": 319677,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Неправильные данные группы",
+        "timestamp": "2021-03-13T16:33:37.000Z"
+      },
+      {
+        "id": 319708,
+        "stream_id": 1501,
+        "name": "617 Android приложение МИЭМ",
+        "subject": "Тайга",
+        "timestamp": "2021-03-13T17:13:56.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "1317",
+        "stream_id": 1501,
+        "name": "617 Android приложение МИЭМ",
+        "timestamp": "2021-03-12T00:00:00.000Z"
+      },
+      {
+        "user_id": "1317",
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "timestamp": "2021-03-13T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 13,
+        "mentionCount": 2
+      }
+    ]
+  },
+  {
+    "_id": "604613ae668c8c3bac8d0195",
+    "email": "adandronchev@miem.hse.ru",
+    "user_id": 1384,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Александр Андрончев",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-02-22T15:28:18.277803+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/45a0813c980138df17b4ab6bd96323e7?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322354,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T15:55:57.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "1384",
+        "stream_id": 1395,
+        "name": "401 Пиринг",
+        "timestamp": "2021-03-07T00:00:00.000Z"
+      },
+      {
+        "user_id": "1384",
+        "stream_id": 1395,
+        "name": "401 Пиринг",
+        "timestamp": "2021-03-07T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 2
+      }
+    ]
+  },
+  {
+    "_id": "604dfcadf3a0b2a04fd81ee9",
+    "email": "aenepomnyaschiy@miem.hse.ru",
+    "user_id": 1426,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Артем Непомнящий",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-03-01T09:12:02.602149+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/0c38857ac21df3d2a4186ee324cac887?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 319518,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-13T13:21:25.000Z"
+      },
+      {
+        "id": 325938,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Ваши сочинения",
+        "timestamp": "2021-03-18T22:31:20.000Z"
+      },
+      {
+        "id": 325967,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Ваши сочинения",
+        "timestamp": "2021-03-18T22:43:49.000Z"
+      },
+      {
+        "id": 328840,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-21T19:51:48.000Z"
+      },
+      {
+        "id": 330274,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T18:47:56.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "1426",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-13T00:00:00.000Z"
+      },
+      {
+        "user_id": "1426",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-21T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 5,
+        "mentionCount": 2
+      }
+    ]
+  },
+  {
+    "_id": "604f4e2ecba260afe4c07486",
+    "email": "daryabova@miem.hse.ru",
+    "user_id": 1320,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Дарина Рябова",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T14:18:23.344484+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/614279eaa6f1658e9a7f07099bce5b9c?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 320960,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-14T19:55:27.000Z"
+      },
+      {
+        "id": 320968,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-14T20:03:07.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "604dfcadf3a0b2a04fd81ef9",
+    "email": "evdruschenko@miem.hse.ru",
+    "user_id": 1374,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Егор Друщенко",
+    "timezone": "Asia/Yekaterinburg",
+    "is_active": true,
+    "date_joined": "2021-02-15T16:04:34.051711+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/a6aa1695163bc8ccbb587a7c38556610?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 319965,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-13T23:17:18.000Z"
+      },
+      {
+        "id": 319966,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-13T23:19:50.000Z"
+      },
+      {
+        "id": 319967,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-13T23:21:17.000Z"
+      },
+      {
+        "id": 319968,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-13T23:23:41.000Z"
+      },
+      {
+        "id": 322353,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T15:55:42.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 5,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "604f4e2ecba260afe4c07481",
+    "email": "kagordeeva_1@miem.hse.ru",
+    "user_id": 1322,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Карина Гордеева",
+    "timezone": "Asia/Yekaterinburg",
+    "is_active": true,
+    "date_joined": "2021-01-16T14:22:27.494447+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/1f385870793e87ef1feeb76c475cf63e?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 320976,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-14T20:11:51.000Z"
+      },
+      {
+        "id": 320977,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-14T20:15:14.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "605342ae9309a0e7a221d65b",
+    "email": "limiroshnichenko@miem.hse.ru",
+    "user_id": 1390,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Лев Мирошниченко",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-02-22T20:54:19.283328+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/69561c843c363ddb3b4385a1d1843d55?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 324767,
+        "stream_id": 284,
+        "name": "Лаборатория 520",
+        "subject": "...",
+        "timestamp": "2021-03-17T20:35:19.000Z"
+      },
+      {
+        "id": 324773,
+        "stream_id": 284,
+        "name": "Лаборатория 520",
+        "subject": "...",
+        "timestamp": "2021-03-17T20:36:41.000Z"
+      },
+      {
+        "id": 324810,
+        "stream_id": 284,
+        "name": "Лаборатория 520",
+        "subject": "...",
+        "timestamp": "2021-03-17T20:45:56.000Z"
+      },
+      {
+        "id": 324815,
+        "stream_id": 284,
+        "name": "Лаборатория 520",
+        "subject": "...",
+        "timestamp": "2021-03-17T20:50:09.000Z"
+      },
+      {
+        "id": 324822,
+        "stream_id": 284,
+        "name": "Лаборатория 520",
+        "subject": "...",
+        "timestamp": "2021-03-17T20:55:02.000Z"
+      },
+      {
+        "id": 324901,
+        "stream_id": 284,
+        "name": "Лаборатория 520",
+        "subject": "...",
+        "timestamp": "2021-03-17T22:51:29.000Z"
+      },
+      {
+        "id": 325338,
+        "stream_id": 284,
+        "name": "Лаборатория 520",
+        "subject": "...",
+        "timestamp": "2021-03-18T16:22:01.000Z"
+      },
+      {
+        "id": 325398,
+        "stream_id": 284,
+        "name": "Лаборатория 520",
+        "subject": "...",
+        "timestamp": "2021-03-18T16:51:23.000Z"
+      },
+      {
+        "id": 326071,
+        "stream_id": 284,
+        "name": "Лаборатория 520",
+        "subject": "...",
+        "timestamp": "2021-03-19T09:35:22.000Z"
+      },
+      {
+        "id": 326592,
+        "stream_id": 284,
+        "name": "Лаборатория 520",
+        "subject": "...",
+        "timestamp": "2021-03-19T16:31:29.000Z"
+      },
+      {
+        "id": 326646,
+        "stream_id": 284,
+        "name": "Лаборатория 520",
+        "subject": "...",
+        "timestamp": "2021-03-19T17:09:03.000Z"
+      },
+      {
+        "id": 326659,
+        "stream_id": 284,
+        "name": "Лаборатория 520",
+        "subject": "...",
+        "timestamp": "2021-03-19T17:22:06.000Z"
+      },
+      {
+        "id": 326692,
+        "stream_id": 284,
+        "name": "Лаборатория 520",
+        "subject": "...",
+        "timestamp": "2021-03-19T17:33:01.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "1390",
+        "stream_id": 284,
+        "name": "Лаборатория 520",
+        "timestamp": "2021-03-18T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 13,
+        "mentionCount": 1
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769fb",
+    "email": "rrnasyrova@miem.hse.ru",
+    "user_id": 1398,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Регина Насырова",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-02-24T19:03:31.844186+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/3e49eb95b6f6ffd8d4875cbbd6c7b7b9?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322020,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-15T13:30:25.000Z"
+      },
+      {
+        "id": 322342,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T15:51:25.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "1398",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-15T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 1
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769ed",
+    "email": "tzhayrapetyan@miem.hse.ru",
+    "user_id": 1388,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Тигран Айрапетян",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-02-22T17:50:04.807466+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/9a2bc14b56e3226b628f1834606d0463?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322330,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T15:45:12.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769ee",
+    "email": "aachulaevskiy@miem.hse.ru",
+    "user_id": 998,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Артем Чулаевский",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-09T14:39:33.478091+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/221bde544fb92cec0bc26a6f4dfad63c?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322461,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T17:36:34.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769f4",
+    "email": "drmanyakin@miem.hse.ru",
+    "user_id": 1430,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Доминик Манякин",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-03-04T14:22:36.042945+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/0a333d876e1c8ba44c2eaa10f43bc758?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322511,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T18:45:32.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "604dfcadf3a0b2a04fd81efa",
+    "email": "fdkuzenkov@miem.hse.ru",
+    "user_id": 1298,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Филипп Кузенков Дмитриевич",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T10:38:30.216895+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/dee6baabceef6532229bcc9bed8b385f?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 320006,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-14T07:36:20.000Z"
+      },
+      {
+        "id": 322403,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T16:51:36.000Z"
+      },
+      {
+        "id": 327440,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-20T09:46:59.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 3,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509fb0f9f200916f276a0f",
+    "email": "gakondrachenkov@miem.hse.ru",
+    "user_id": 1311,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Григорий Кондраченков",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T11:00:45.656797+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/16e9b1f12cd739c475235a1df47d4125?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322477,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T17:48:28.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769d5",
+    "email": "kkgaluzina@miem.hse.ru",
+    "user_id": 1314,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Кристина Галузина",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T11:44:11.034963+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/d1960401eeabe3265f9c8fbbe0c9d2e5?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322463,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T17:43:20.000Z"
+      },
+      {
+        "id": 322484,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-15T18:11:12.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60227aeca31ec4f9f9c7dfc4",
+    "email": "maisakov@miem.hse.ru",
+    "user_id": 1312,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Михаил Исаков",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T11:03:14.308437+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/a0e6ae04906f4607379e4a592772c907?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 275953,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Jitsi",
+        "timestamp": "2021-02-08T20:19:14.000Z"
+      },
+      {
+        "id": 319733,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-13T18:50:30.000Z"
+      },
+      {
+        "id": 329404,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T09:09:26.000Z"
+      },
+      {
+        "id": 329546,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Соединение с сервером",
+        "timestamp": "2021-03-22T11:01:43.000Z"
+      },
+      {
+        "id": 329554,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Соединение с сервером",
+        "timestamp": "2021-03-22T11:04:04.000Z"
+      },
+      {
+        "id": 329579,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Соединение с сервером",
+        "timestamp": "2021-03-22T11:28:37.000Z"
+      },
+      {
+        "id": 329750,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Соединение с сервером",
+        "timestamp": "2021-03-22T13:01:16.000Z"
+      },
+      {
+        "id": 329752,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Соединение с сервером",
+        "timestamp": "2021-03-22T13:01:33.000Z"
+      },
+      {
+        "id": 330642,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-23T05:38:16.000Z"
+      },
+      {
+        "id": 330791,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-23T10:59:49.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "1312",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-22T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 9,
+        "mentionCount": 1
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769d9",
+    "email": "makulko@miem.hse.ru",
+    "user_id": 1351,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Максим Кулько",
+    "timezone": "Europe/Minsk",
+    "is_active": true,
+    "date_joined": "2021-01-25T16:32:43.675462+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/84bca88ebb393572fae474e5c836727b?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322488,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T18:17:47.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509fb0f9f200916f276a12",
+    "email": "naproshak@miem.hse.ru",
+    "user_id": 1339,
+    "avatar_version": 2,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Никита Прошак",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-20T16:44:50.271450+00:00",
+    "avatar_url": "/user_avatars/2/1777f0ae087fec7334df9636d01dcdb2725c77af.png?x=x&version=2",
+    "messages": [
+      {
+        "id": 322420,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T17:03:48.000Z"
+      },
+      {
+        "id": 330176,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T17:51:56.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 2,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f276a02",
+    "email": "nvkuznetsov_3@miem.hse.ru",
+    "user_id": 1416,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Никита Кузнецов",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-02-26T16:17:22.841848+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/865de87ad1052a04a9e3e025c76d4ff4?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322430,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T17:13:48.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769ef",
+    "email": "pazaderey@miem.hse.ru",
+    "user_id": 1170,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Петр Задерей",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-10-19T08:42:49.534535+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/91255112f7006f21b9a5c6837badf63b?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322407,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T16:53:59.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769ff",
+    "email": "pschuyan@miem.hse.ru",
+    "user_id": 1412,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Павел Чуян",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-02-26T13:40:49.886662+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/40b72ea28a3bf10e30a1f3363e9d8269?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322422,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T17:04:50.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769fc",
+    "email": "ryudyakonov@miem.hse.ru",
+    "user_id": 1410,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Роман Дьяконов",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-02-26T11:12:48.787995+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/b78cd18cda98e7b36beee26ca608f186?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322471,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T17:45:42.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509fb0f9f200916f276a0d",
+    "email": "vvmelnichenko@miem.hse.ru",
+    "user_id": 1313,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Всеволод Мельниченко",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T11:03:17.659785+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/2a8c946e8d70979a03a409612dccfcef?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322131,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T14:11:05.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769d8",
+    "email": "esmarkova_1@miem.hse.ru",
+    "user_id": 997,
+    "avatar_version": 2,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Эвелина Маркова",
+    "timezone": "",
+    "is_active": true,
+    "date_joined": "2020-09-09T14:38:45.910901+00:00",
+    "avatar_url": "/user_avatars/2/f2751fe80c284bc28766c297e9b62f16f742914e.png?x=x&version=2",
+    "messages": [
+      {
+        "id": 322072,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T13:56:33.000Z"
+      },
+      {
+        "id": 329474,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Проектный семинар",
+        "timestamp": "2021-03-22T10:00:38.000Z"
+      },
+      {
+        "id": 330173,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T17:49:33.000Z"
+      },
+      {
+        "id": 330787,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-23T10:49:58.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "997",
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "timestamp": "2021-03-23T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 4,
+        "mentionCount": 1
+      }
+    ]
+  },
+  {
+    "_id": "6030fb6c2ec1e260ae35b61a",
+    "email": "pdblinov@miem.hse.ru",
+    "user_id": 948,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Павел Блинов",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-03T14:34:13.136369+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/da83269549244df83b0f1762565f927a?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 284539,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Гитлаб. расписание пайплайнов",
+        "timestamp": "2021-02-19T17:16:55.000Z"
+      },
+      {
+        "id": 319617,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-13T15:13:45.000Z"
+      },
+      {
+        "id": 320665,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-14T17:25:07.000Z"
+      },
+      {
+        "id": 320671,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-14T17:27:31.000Z"
+      },
+      {
+        "id": 321603,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Пиринговая проверка",
+        "timestamp": "2021-03-15T09:31:41.000Z"
+      },
+      {
+        "id": 322332,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T15:46:07.000Z"
+      },
+      {
+        "id": 324379,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-17T16:43:57.000Z"
+      },
+      {
+        "id": 324397,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-17T16:48:54.000Z"
+      },
+      {
+        "id": 324400,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-17T16:50:32.000Z"
+      },
+      {
+        "id": 327493,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-20T11:27:41.000Z"
+      },
+      {
+        "id": 327523,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-20T13:15:06.000Z"
+      },
+      {
+        "id": 327526,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-20T13:19:36.000Z"
+      },
+      {
+        "id": 327580,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-20T16:07:12.000Z"
+      },
+      {
+        "id": 327583,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-20T16:11:59.000Z"
+      },
+      {
+        "id": 327643,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-20T17:44:50.000Z"
+      },
+      {
+        "id": 328167,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-21T09:03:51.000Z"
+      },
+      {
+        "id": 328172,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-21T09:15:18.000Z"
+      },
+      {
+        "id": 328193,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-21T09:21:54.000Z"
+      },
+      {
+        "id": 328455,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-21T14:09:22.000Z"
+      },
+      {
+        "id": 329165,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-21T22:34:21.000Z"
+      },
+      {
+        "id": 329168,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-21T22:35:22.000Z"
+      },
+      {
+        "id": 329326,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T08:15:41.000Z"
+      },
+      {
+        "id": 329327,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T08:16:26.000Z"
+      },
+      {
+        "id": 329353,
+        "stream_id": 1340,
+        "name": "Цифровой след и портфолио",
+        "subject": "394 Цифровой след: сбор данных",
+        "timestamp": "2021-03-22T08:33:43.000Z"
+      },
+      {
+        "id": 329359,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T08:39:42.000Z"
+      },
+      {
+        "id": 329406,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T09:09:57.000Z"
+      },
+      {
+        "id": 329409,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T09:10:35.000Z"
+      },
+      {
+        "id": 329428,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T09:23:28.000Z"
+      },
+      {
+        "id": 329449,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T09:31:52.000Z"
+      },
+      {
+        "id": 329476,
+        "stream_id": 1340,
+        "name": "Цифровой след и портфолио",
+        "subject": "394 Цифровой след: сбор данных",
+        "timestamp": "2021-03-22T10:08:30.000Z"
+      },
+      {
+        "id": 329729,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Соединение с сервером",
+        "timestamp": "2021-03-22T12:55:09.000Z"
+      },
+      {
+        "id": 329737,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Соединение с сервером",
+        "timestamp": "2021-03-22T12:56:52.000Z"
+      },
+      {
+        "id": 329739,
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "subject": "Соединение с сервером",
+        "timestamp": "2021-03-22T12:57:09.000Z"
+      },
+      {
+        "id": 330145,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T17:13:22.000Z"
+      },
+      {
+        "id": 330148,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T17:14:16.000Z"
+      },
+      {
+        "id": 330153,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T17:15:18.000Z"
+      },
+      {
+        "id": 330318,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T19:15:22.000Z"
+      }
+    ],
+    "mentions": [
+      {
+        "user_id": "948",
+        "stream_id": 1091,
+        "name": "Техническая поддержка МИЭМ",
+        "timestamp": "2021-03-22T00:00:00.000Z"
+      }
+    ],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 36,
+        "mentionCount": 1
+      }
+    ]
+  },
+  {
+    "_id": "604f4e2dcba260afe4c0744a",
+    "email": "dafetisov@miem.hse.ru",
+    "user_id": 1016,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Данила Фетисов",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2020-09-10T09:26:36.338839+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/b3ee2678734ec6bf527a9235d257a023?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 321698,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-15T10:17:14.000Z"
+      },
+      {
+        "id": 321898,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-15T11:53:25.000Z"
+      },
+      {
+        "id": 323418,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-16T17:05:59.000Z"
+      },
+      {
+        "id": 324986,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-18T07:24:41.000Z"
+      },
+      {
+        "id": 330190,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T18:02:16.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 5,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "604dfcadf3a0b2a04fd81efb",
+    "email": "eashaymardanov@miem.hse.ru",
+    "user_id": 1299,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Эмиль Шаймарданов",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-01-16T10:39:52.689972+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/3fb4ee730adc0709e1bfe11aa40bd98a?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 319758,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-13T19:24:26.000Z"
+      },
+      {
+        "id": 320005,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-14T07:34:45.000Z"
+      },
+      {
+        "id": 320048,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Курсовая АиП",
+        "timestamp": "2021-03-14T08:38:03.000Z"
+      },
+      {
+        "id": 322408,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T16:55:18.000Z"
+      },
+      {
+        "id": 330167,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T17:42:37.000Z"
+      },
+      {
+        "id": 330169,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Микропроект в ПС",
+        "timestamp": "2021-03-22T17:45:47.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 6,
+        "mentionCount": 0
+      }
+    ]
+  },
+  {
+    "_id": "60509faff9f200916f2769f2",
+    "email": "dgkomarov@miem.hse.ru",
+    "user_id": 1391,
+    "avatar_version": 1,
+    "is_admin": false,
+    "is_owner": false,
+    "is_guest": false,
+    "is_bot": false,
+    "full_name": "Данил Комаров",
+    "timezone": "Europe/Moscow",
+    "is_active": true,
+    "date_joined": "2021-02-23T05:09:58.066120+00:00",
+    "avatar_url": "https://secure.gravatar.com/avatar/af34139434f5815d6eabafa60cf2fc2a?d=identicon&version=1",
+    "messages": [
+      {
+        "id": 322535,
+        "stream_id": 1275,
+        "name": "БИВ20X",
+        "subject": "Тайга",
+        "timestamp": "2021-03-15T18:57:28.000Z"
+      }
+    ],
+    "mentions": [],
+    "streams": [],
+    "stats": [
+      {
+        "beginDate": "Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Thu Dec 31 2020 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Jan 31 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Feb 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Sun Feb 28 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 0,
+        "mentionCount": 0
+      },
+      {
+        "beginDate": "Mon Mar 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "endDate": "Tue Mar 23 2021 23:59:59 GMT+0000 (Coordinated Universal Time)",
+        "messageCount": 1,
+        "mentionCount": 0
+      }
+    ]
+  }
+]
